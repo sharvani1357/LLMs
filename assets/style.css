@@ -1,0 +1,38 @@
+.main {
+    background-color: #0f172a;
+}
+
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+.card {
+    padding: 15px;
+    border-radius: 10px;
+    background: #162032;
+    border: 1px solid #334155;
+    margin-bottom: 15px;
+}
+
+.metric-card {
+    padding: 10px;
+    border-radius: 10px;
+    background: #111827;
+    border: 1px solid #475569;
+    text-align: center;
+}
+
+.suggestion-card {
+    padding: 15px;
+    border-radius: 12px;
+    background: #1e293b;
+    border: 1px solid #475569;
+    margin-bottom: 10px;
+}
+
+.editor-box {
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 15px;
+}
